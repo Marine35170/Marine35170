@@ -3,28 +3,26 @@
  <img src="https://res.cloudinary.com/dhwgdubhq/image/upload/v1734431099/banie%CC%80re_zjpvif.png" alt="bannière" style="width: 100%; height: 350px; object-fit: cover;">
 
  <div style="position: absolute; bottom: 25%; left: 50%; transform: translateX(-50%); color: white; font-size: 2em; font-weight: bold; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); background-color: rgba(0, 0, 0, 0.5); padding: 10px; border-radius: 10px;">
-    Hi, I'm Marine  
-    <br>
-    A Web & Mobile Developer
   </div>
 </div>
 <br>
 
-# <span style="font-size: 1em;">👩‍💻 About Me</span>
+# 👩‍💻 About Me
 
 <p>
-  Hello! I'm Marine, a passionate <strong>Web & Mobile Developer</strong>. With a deep love for creating dynamic and responsive applications, I strive to build seamless experiences for users while solving real-world problems through technology.
+  Hi! I'm Marine, a passionate <strong>Web & Mobile Developer</strong>. With a deep love for creating dynamic and responsive applications, I strive to build seamless experiences for users while solving real-world problems through technology.
 </p>
 
 <p>
-  If you'd like to know more about my experience and projects, feel free to check out my CV below!
+  If you'd like to know more about my experience and projects, feel free to check out my CV below !
 </p>
 <!-- Lien vers le CV avec bouton stylisé -->
-<div style="text-align: center; margin-top: 20px;">
-  <a href="https://drive.google.com/file/d/18LHmDw4wgqX4cAaSy4cPgdw-rY2Tcv6J/view?usp=sharing" target="_blank" style="padding: 15px 30px; background-color: #ff7f32; color: white; text-decoration: none; border-radius: 5px; font-size: 1.2em; font-weight: bold; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-    View My CV
+  <a href="mailto:marinekervella@yahoo.fr">
+    <img src="https://img.shields.io/badge/Mail-%2300BFFF?style=for-the-badge&logo=maildotru&logoColor=white" alt="Mail">
   </a>
-</div>
+  <a href="https://drive.google.com/file/d/18LHmDw4wgqX4cAaSy4cPgdw-rY2Tcv6J/view?usp=sharing" >
+    <img src="https://img.shields.io/badge/curriculum%20vitae-green?style=for-the-badge&logo=readdotcv" alt="CV">
+  </a>
 <br>
 <br>
 
@@ -57,7 +55,7 @@
 <br>
 <br>
 
-# 🥑 <span style="color: #FF7F32;">**Conso Maestro**</span> - A Collaborative Food Management App
+# 🥑 **Conso Maestro** - A Collaborative Food Management App
 
 <br>
 Conso Maestro is a **collaborative project** aimed at helping users manage their food consumption and reduce waste. 🍎🥕  
@@ -66,9 +64,11 @@ The application allows users to track their food stock, create shopping lists, a
 <!-- Button -->
 <div style="text-align: center; margin-top: 20px;">
 <br>
-  <a href="https://youtu.be/5kJMQ8H_8Hk" target="_blank" style="padding: 15px 30px; background-color: #ff7f32; color: white; text-decoration: none; border-radius: 5px; font-size: 1.2em; font-weight: bold; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-    Visit Conso Maestro
+
+<a href="https://youtu.be/5kJMQ8H_8Hk">
+    <img src="https://img.shields.io/badge/Visit%20Conso%20Maestro-orange?style=for-the-badge&logo=readdotcv" alt="CV">
   </a>
+  
 </div>
 
 
