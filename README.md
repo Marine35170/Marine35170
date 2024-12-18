@@ -62,6 +62,7 @@ Conso Maestro is a ** collaborative project ** aimed at helping users manage the
 The application allows users to track their food stock and suggest recipes. It also provides features to help users monitor expiration dates, ensuring nothing goes to waste!
 <br>
 <br>
+
 **Key Features and Contributions:**
 
 
