@@ -61,7 +61,9 @@
 Conso Maestro is a ** collaborative project ** aimed at helping users manage their food consumption and reduce waste. 🍎🥕  
 The application allows users to track their food stock and suggest recipes. It also provides features to help users monitor expiration dates, ensuring nothing goes to waste!
 <br>
+<br>
 **Key Features and Contributions:**
+<br>
 - Developed and managed APIs using Express.js.
 - Built user interfaces with React Native.
 - Designed and implemented the database with MongoDB.
