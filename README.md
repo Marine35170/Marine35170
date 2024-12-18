@@ -65,6 +65,7 @@ The application allows users to track their food stock and suggest recipes. It a
 **Key Features and Contributions:**
 <br>
 - Developed and managed APIs using Express.js.
+
 - Built user interfaces with React Native.
 - Designed and implemented the database with MongoDB.
 - Followed the MVC architecture for clean and maintainable code.
